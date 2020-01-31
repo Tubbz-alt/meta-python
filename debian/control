@@ -1,0 +1,12 @@
+Source: meta-python
+Section: metapackages
+Priority: optional
+Maintainer: System76 <info@system76.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.1.4
+Homepage: https://github.com/pop-os/meta-python
+
+Package: python
+Architecture: all
+Depends: ${misc:Depends}, python2
+Description: Transitional metapackage for python2

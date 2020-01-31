@@ -1,0 +1,11 @@
+meta-python (2.7.17-2pop1) focal; urgency=medium
+
+  * Add symlink to python2 
+
+ -- Michael Aaron Murphy <michael@system76.com>  Fri, 31 Jan 2020 15:02:36 -0700
+
+meta-python (2.7.17-2) focal; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Michael Aaron Murphy <michael@system76.com>  Fri, 31 Jan 2020 11:33:34 -0700
